@@ -1,3 +1,3 @@
 # testrepo
-This is a first test-run of repository
-Here, i learn to commit
+
+It's a markdown file in this repository
